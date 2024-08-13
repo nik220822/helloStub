@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IbsSpring.iml" filepath="$PROJECT_DIR$/IbsSpring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloStub.iml" filepath="$PROJECT_DIR$/helloStub.iml" />
+    </modules>
+  </component>
+</project>
